@@ -1,0 +1,10 @@
+.swipeable-gallery {
+    height: 100vh; /* set the height of the wrapper to the full viewport height */
+    width: 100vw; /* set the width of the wrapper to the full viewport width */
+  }
+  
+  .swipeable-image {
+    height: 100%; /* set the height of the SwipeableImage component to 100% of the wrapper height */
+    width: 100%; /* set the width of the SwipeableImage component to 100% of the wrapper width */
+  }
+  
